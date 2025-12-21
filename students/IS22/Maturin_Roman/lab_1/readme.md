@@ -45,7 +45,7 @@
 
     **Результат работы:**
 
-![img](img/img_1.jpg)
+![img](lab_1/img/img_1.jpg)
 
 2. **Работа с параметром `temperature`**:
 
